@@ -8,4 +8,4 @@ The code in src/gplvm is curtesy of Neil Lawrence, and src/netlab is simply a co
 Cheers,
 Jack Wang
 
-[The original site](www.dgp.toronto.edu/~jmwang/gpdm/)
+[The original site](http://www.dgp.toronto.edu/~jmwang/gpdm/)
